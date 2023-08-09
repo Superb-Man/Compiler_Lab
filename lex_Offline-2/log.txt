@@ -1,0 +1,7 @@
+Error at line# 1: INVALID_ID_SUFFIX_NUM_PREFIX 12abc34
+Error at line# 2: TOO_MANY_DECIMAL_POINTS 1..2...3
+Error at line# 3: UNFINISHED_STRING "CSE BUET 
+Line# 4: Token <ID> Lexeme DHAKA found
+	no ScopeTable in the SymbolTable
+Total lines: 4
+Total errors: 3
